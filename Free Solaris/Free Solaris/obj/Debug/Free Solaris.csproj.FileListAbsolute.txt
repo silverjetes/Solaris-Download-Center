@@ -1,0 +1,10 @@
+C:\Users\Silver\source\repos\Free Solaris\Free Solaris\bin\Debug\Free Solaris.exe
+C:\Users\Silver\source\repos\Free Solaris\Free Solaris\bin\Debug\Free Solaris.pdb
+C:\Users\Silver\source\repos\Free Solaris\Free Solaris\obj\Debug\Free Solaris.csproj.AssemblyReference.cache
+C:\Users\Silver\source\repos\Free Solaris\Free Solaris\obj\Debug\Free_Solaris.Form1.resources
+C:\Users\Silver\source\repos\Free Solaris\Free Solaris\obj\Debug\Free_Solaris.Properties.Resources.resources
+C:\Users\Silver\source\repos\Free Solaris\Free Solaris\obj\Debug\Free Solaris.csproj.GenerateResource.cache
+C:\Users\Silver\source\repos\Free Solaris\Free Solaris\obj\Debug\Free Solaris.csproj.CoreCompileInputs.cache
+C:\Users\Silver\source\repos\Free Solaris\Free Solaris\obj\Debug\Free Solaris.exe
+C:\Users\Silver\source\repos\Free Solaris\Free Solaris\obj\Debug\Free Solaris.pdb
+C:\Users\Silver\source\repos\Free Solaris\Free Solaris\obj\Debug\Free_Solaris.Form2.resources
